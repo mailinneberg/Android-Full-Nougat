@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <!-- Whether or not the dock settings are to be displayed for this device when docked -->
+    <bool name="has_dock_settings">false</bool>
+    <!-- Whether there is a boot sounds checkbox -->
+    <bool name="has_boot_sounds">false</bool>
+    <!-- Whether there is a silent mode checkbox  -->
+    <bool name="has_silent_mode">true</bool>
+    <!-- Whether the DEPRECATED power control widget is enabled for this
+         device. Should be overridden for specific product builds. -->
+    <bool name="has_powercontrol_widget">false</bool>
+
+    <!-- Display additional System Update menu if true -->
+    <bool name="config_additional_system_update_setting_enable">false</bool>
+
+    <!-- Whether the bluetooth activation confirmation dialogs should be auto dismissed.
+         Can be overridden for specific product builds. -->
+    <bool name="auto_confirm_bluetooth_activation_dialog">false</bool>
+
+    <!-- Whether to show a preference item for the manual in About phone -->
+    <bool name="config_show_manual">false</bool>
+
+    <!-- only one provider that matches,flag show one email -->
+    <bool name="config_show_email">true</bool>
+
+    <!-- Whether to show a preference item for regulatory information in About phone -->
+    <bool name="config_show_regulatory_info">false</bool>
+
+    <!-- Whether to show a preference item for mobile plan -->
+    <bool name="config_show_mobile_plan">true</bool>
+
+    <!-- Whether to add AGPS parameter settings -->
+    <bool name="config_agps_enabled">false</bool>
+
+    <!-- Whether none security option is hide or not  (country specific). -->
+    <bool name="config_hide_none_security_option">false</bool>
+
+    <!-- Whether enable get network info -->
+    <bool name="config_netinfo">false</bool>
+
+    <!-- Whether to show hotspot via the ap's classification -->
+    <bool name="set_wifi_priority">false</bool>
+
+    <!-- Whether to connect to wifi automatically -->
+    <bool name="config_auto_connect_wifi_enabled">false</bool>
+
+    <!-- Whether to switch cell to wifi -->
+    <bool name="cell_to_wifi">false</bool>
+
+    <!-- Whether notify user that current connected ap is CMCC -->
+    <bool name="connect_to_cmcc_notify">false</bool>
+
+    <!-- Whether notify user in cell to wlan feature -->
+    <bool name="cellular_to_wlan_hint">false</bool>
+
+    <!-- Whether to switch wifi to data -->
+    <bool name="wifi_to_cell">false</bool>
+
+    <!-- Whether to enable roaming settings -->
+    <bool name="config_roamingsettings_enabled">false</bool>
+
+    <!-- Whether to show hotspot settings -->
+    <bool name="show_wifi_hotspot_settings">false</bool>
+
+    <!-- Whether to hide wifi hotspot -->
+    <bool name="hide_wifi_hotspot">false</bool>
+
+    <!-- Whether to enable data usage selection -->
+    <bool name="config_data_usage_selection">false</bool>
+
+    <!-- Whether to enable app network access control -->
+    <bool name="config_app_network_access_enabled">false</bool>
+
+    <!-- Whether to hide ims apn -->
+    <bool name="config_hide_ims_apns">false</bool>
+    <!-- Whether to hide dm apn for carrier -->
+    <bool name="config_hide_dm_enabled">true</bool>
+    <!-- Whether to hide SUPL apn for China Union -->
+    <bool name="config_hidesupl_enable">false</bool>
+    <!-- Whether to hide mms apn-->
+    <bool name="config_hide_mms_enable">false</bool>
+
+    <!-- Whether to enable the default ipv4/v6 for creating new APN -->
+    <bool name="config_default_apn_for_new">false</bool>
+
+    <!--Whether help links are defined. -->
+    <bool name="config_has_help">false</bool>
+
+    <!-- show pop up notification for turn off wifi begin -->
+    <bool name="hotspot_show_turn_off_wifi_dialog">false</bool>
+    <!-- Whether to enable the default ipv4/v6 for creating new APN -->
+    <bool name="config_default_apn_for_new">false</bool>
+
+    <!-- Whether notify user that switch data service -->
+    <bool name="confirm_to_switch_data_service">false</bool>
+</resources>

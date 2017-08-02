@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aleksandrtitov/Downloads/DrawOnTop/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/aleksandrtitov/.android/build-cache/fdef9d2fbd98be2475f5b803ea333cbf0d8e4d05/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/aleksandrtitov/Downloads/DrawOnTop/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/aleksandrtitov/.android/build-cache/fdef9d2fbd98be2475f5b803ea333cbf0d8e4d05/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/aleksandrtitov/Downloads/DrawOnTop/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/aleksandrtitov/.android/build-cache/fdef9d2fbd98be2475f5b803ea333cbf0d8e4d05/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/aleksandrtitov/Downloads/DrawOnTop/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/aleksandrtitov/.android/build-cache/fdef9d2fbd98be2475f5b803ea333cbf0d8e4d05/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/aleksandrtitov/Downloads/DrawOnTop/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/aleksandrtitov/.android/build-cache/fdef9d2fbd98be2475f5b803ea333cbf0d8e4d05/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/aleksandrtitov/Downloads/DrawOnTop/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/aleksandrtitov/.android/build-cache/fdef9d2fbd98be2475f5b803ea333cbf0d8e4d05/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
